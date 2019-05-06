@@ -1,0 +1,7 @@
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3exercises\day3exercises\obj\Debug\day3exercises.csprojAssemblyReference.cache
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3exercises\day3exercises\obj\Debug\day3exercises.csproj.CoreCompileInputs.cache
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3exercises\day3exercises\bin\Debug\day3exercises.exe.config
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3exercises\day3exercises\bin\Debug\day3exercises.exe
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3exercises\day3exercises\bin\Debug\day3exercises.pdb
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3exercises\day3exercises\obj\Debug\day3exercises.exe
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3exercises\day3exercises\obj\Debug\day3exercises.pdb

@@ -1,0 +1,18 @@
+using System;
+
+namespace FirstProject 
+{ 
+	/* This program when executed will print Welcome to ISS and Everyone can program. */
+	// An example program for FOPCS 
+
+	class Program
+	{ 
+		static void Main(string[] args) 
+		{ 
+			Console.Write("Please enter the length in cm: ");
+			double a = double.Parse(Console.ReadLine());
+			double inch = a / 2.54 ;
+			Console.WriteLine($"{inch:0.###}");
+		} 
+	}
+}

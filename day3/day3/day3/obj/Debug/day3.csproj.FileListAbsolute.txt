@@ -1,0 +1,7 @@
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3\day3\obj\Debug\day3.csprojAssemblyReference.cache
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3\day3\obj\Debug\day3.csproj.CoreCompileInputs.cache
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3\day3\bin\Debug\day3.exe.config
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3\day3\bin\Debug\day3.exe
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3\day3\bin\Debug\day3.pdb
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3\day3\obj\Debug\day3.exe
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day3\day3\day3\obj\Debug\day3.pdb
