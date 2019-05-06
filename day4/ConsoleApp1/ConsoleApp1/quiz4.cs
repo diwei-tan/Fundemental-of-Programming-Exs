@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    class quiz4
+    {
+        static void Main()
+        {
+            Console.WriteLine("Welcome to the Bank of ISS");
+            int test = 0;
+            int pin = 123456;
+            while (test <= 3)
+            {
+                Console.Write("Enter your PIN: ");
+                int input = int.Parse(Console.ReadLine());
+                test++; // IMPT!!! position to put number of tries immediately after user enter.
+                if (input == pin)
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("PIN accepted. You can access your account now.");
+                    test = 3;
+                }
+                else if (test <= 2)
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Incorrect PIN. Please try again.");
+                }
+                else
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Too many wrong PIN entries. Your account is now locked.");
+                    test++; //exit loop
+                }
+            }
+        }
+    }
+}

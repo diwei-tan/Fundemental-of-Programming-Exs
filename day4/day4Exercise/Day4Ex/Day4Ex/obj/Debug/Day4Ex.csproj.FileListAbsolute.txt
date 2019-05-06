@@ -1,0 +1,7 @@
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day4\day4Exercise\Day4Ex\Day4Ex\bin\Debug\Day4Ex.exe.config
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day4\day4Exercise\Day4Ex\Day4Ex\bin\Debug\Day4Ex.exe
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day4\day4Exercise\Day4Ex\Day4Ex\bin\Debug\Day4Ex.pdb
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day4\day4Exercise\Day4Ex\Day4Ex\obj\Debug\Day4Ex.csproj.CoreCompileInputs.cache
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day4\day4Exercise\Day4Ex\Day4Ex\obj\Debug\Day4Ex.exe
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day4\day4Exercise\Day4Ex\Day4Ex\obj\Debug\Day4Ex.pdb
+C:\Users\rune0\iCloudDrive\Graddip SA48\FOPCS01\day4\day4Exercise\Day4Ex\Day4Ex\obj\Debug\Day4Ex.csprojAssemblyReference.cache
